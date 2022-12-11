@@ -1,7 +1,3 @@
 this is a new tile this to learn how to make something vim 
 let's try to write a new line via using o in the vim
-Shift + O takes you to a new line above the line focused.
-Shift + I takes you to the beginning of the line.howtomake something from scratch a random lie
-Shift + A take you to the end of the line.
-typing a number and then using navigation keys.
 
