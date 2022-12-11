@@ -1,3 +1,1 @@
-this is a new tile this to learn how to make something vim 
-let's try to write a new line via using o in the vim
-
+This is the alien story I want to create now let's see.
